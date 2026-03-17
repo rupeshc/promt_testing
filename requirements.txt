@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+ragas
+datasets
+numpy
+pandas
+scipy
+requests
+flask

@@ -1,0 +1,20 @@
+What is machine learning?
+What is a transformer model?
+How does RAG work?
+What is Docker?
+What is a neural network?
+How does gradient descent work?
+What is a vector database?
+What is prompt engineering?
+How does the attention mechanism work?
+What is fine-tuning in LLMs?
+What is Kubernetes?
+How do REST APIs work?
+What is a convolutional neural network?
+How does reinforcement learning work?
+What is natural language processing?
+What are word embeddings?
+What is backpropagation?
+What is transfer learning?
+How are LLMs evaluated?
+What is a large language model?
