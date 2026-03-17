@@ -1,10 +1,30 @@
+# ── Web Framework ─────────────────────────────────────────────────────
 fastapi
-uvicorn
+uvicorn[standard]
+python-multipart
+
+# ── Data Validation ───────────────────────────────────────────────────
 pydantic
+
+# ── HTTP Requests ─────────────────────────────────────────────────────
+requests
+
+# ── Environment Variables ─────────────────────────────────────────────
+python-dotenv
+
+# ── RAG — Vector Store & Embeddings ───────────────────────────────────
+chromadb
+sentence-transformers
+
+# ── RAGAS — RAG Evaluation ────────────────────────────────────────────
 ragas
 datasets
-numpy
-pandas
-scipy
-requests
-flask
+
+# ── LangChain — LLM Wrappers for RAGAS ───────────────────────────────
+langchain
+langchain-community
+langchain-ollama
+
+# ── Gemini Fallback (optional but recommended) ────────────────────────
+langchain-google-genai
+google-generativeai
